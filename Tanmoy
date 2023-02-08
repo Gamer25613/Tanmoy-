@@ -1,0 +1,13 @@
+echo "# Tanmoy-" >> README.md
+
+git init
+
+git add README.md
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/Gamer25613/Tanmoy-.git
+
+git push -u origin main
